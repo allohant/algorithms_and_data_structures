@@ -10,8 +10,10 @@ Given the positions of the large sky lanterns and the positions of the small one
 The first line has an integer L that defines the number of the large sky lanterns at the observation instant. Each of the following L lines contains a pair of integers separated by a space that gives the coordinates (x, y) of a large sky lantern. After that, there is a line with an integer S that defines the number of small sky lanterns and S lines, each defining the position of a small sky lantern. The height is irrelevant for us. All the given points are distinct and there are at least three points representing large sky lanterns that are not collinear.
 ## Output
 The output has a single line with the number of small sky lanterns that are in the interior or on the boundary of some triangle defined by any three of the large sky lanterns.
+
 ## Constraints
-| | |
+
+|  |  |
 | --- | --- |
 | 3 ≤ L ≤ 10 000 | Number of large sky lanterns. |
 | 1 ≤ S ≤ 50 000 | Number of small sky lanterns. |

@@ -21,23 +21,23 @@ The output has a single line with the number of small sky lanterns that are in t
 
 ![picture](graham_assignment_pic.png "")
 
-Sample Input
-8
-3 4
-2 8
-5 4
-1 8
-4 7
-3 10
-11 2
-7 3
-6
-5 12
-3 7
-3 3
-4 5
-0 4
+Sample Input:\
+8\
+3 4\
+2 8\
+5 4\
+1 8\
+4 7\
+3 10\
+11 2\
+7 3\
+6\
+5 12\
+3 7\
+3 3\
+4 5\
+0 4\
 2 6
 
-Sample Output:
+Sample Output:\
 3
